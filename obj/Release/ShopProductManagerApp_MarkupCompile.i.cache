@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\winuser\Desktop\Git\ShopProductManagerApp\obj\Debug\
+C:\Users\winuser\Desktop\Git\ShopProductManagerApp\obj\Release\
 ShopProductManagerApp
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\winuser\Desktop\Git\ShopProductManagerApp\App.xaml
 3-466319747
 
-111801604504
+12-937627804
 19-1436315170
 LoginWindow.xaml;MainWindow.xaml;RegisterWindow.xaml;
 
-False
+True
 
