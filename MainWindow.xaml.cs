@@ -22,13 +22,22 @@ namespace ShopProductManagerApp
     public partial class MainWindow : Window
     {
         private List<IProduct> _products = new List<IProduct>();
+        private readonly AppDbContext _dbContext = new AppDbContext();
+
         public MainWindow()
         {
             InitializeComponent();
 
             Username.Text = AuthService.Instance.ActiveUser.Login;
+
+            LoadProducts();
         }
-        
+
+        private void LoadProducts()
+        {
+            ProductList.ItemsSource = _dbContext.Products.ToList();
+        }
+
         private void Exit_Click(object sender, RoutedEventArgs e)
         {
             LoginWindow loginWindow = new LoginWindow();
@@ -40,23 +49,36 @@ namespace ShopProductManagerApp
         {
             if (!decimal.TryParse(PriceTextBox.Text, out decimal price))
             {
-                MessageBox.Show("Неправильное значение для цены!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show("Неправильное значение для цены!", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 return;
             }
 
-            Product addedProduct = new Product
+            Product newProduct = new Product
             {
-                Name = NameTextBox.Text,
-                Price = price
+                ProductName = NameTextBox.Text,
+                Price = price,
+                Description = DescriptionTextBox.Text
             };
 
-            _products.Add(addedProduct);
+            _dbContext.Products.Add(newProduct);
+            _dbContext.SaveChanges();
 
-            ProductList.ItemsSource = null;
-            ProductList.ItemsSource = _products;
-
-            NameTextBox.Text = string.Empty;
-            PriceTextBox.Text = string.Empty;
+            LoadProducts();
         }
+
+        private void DeleteProductButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender is Button button && button.Tag is Product selectedProduct)
+            {
+                if (MessageBox.Show($"Удалить товар '{selectedProduct.ProductName}'?", "Подтверждение",
+                                    MessageBoxButton.YesNo, MessageBoxImage.Warning) == MessageBoxResult.Yes)
+                {
+                    _dbContext.Products.Remove(selectedProduct);
+                    _dbContext.SaveChanges();
+                    LoadProducts();
+                }
+            }
+        }
+
     }
 }

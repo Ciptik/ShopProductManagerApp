@@ -1,55 +1,53 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Runtime.Remoting.Contexts;
 using ShopProductManagerApp.Model;
 
 namespace ShopProductManagerApp.Logic
 {
-    // Singleton
     public class AuthService
     {
         private static AuthService _instance;
-        private List<User> _users;
+        private readonly AppDbContext _dbContext;
         public User ActiveUser { get; private set; }
 
         private AuthService()
         {
-            _users = new List<User>()
-        {
-            new User("admin", "1234")
-        };
+            _dbContext = new AppDbContext();
         }
 
-        public static AuthService Instance
-        {
-            get
-            {
-                if (_instance == null)
-                {
-                    _instance = new AuthService();
-                }
-                return _instance;
-            }
-        }
+        public static AuthService Instance => _instance ?? (_instance = new AuthService());
 
         public bool AddUser(string login, string password)
         {
-            if (_users.Any(u => u.Login == login))
+            if (_dbContext.Users.Any(u => u.Login == login))
             {
                 return false;
             }
 
-            _users.Add(new User(login, password));
+            User newUser = new User
+            {
+                Login = login,
+                Pass = User.HashPassword(password)
+            };
+
+            _dbContext.Users.Add(newUser);
+            _dbContext.SaveChanges();
             return true;
         }
 
         public bool CheckData(string login, string password)
         {
-            var user = _users.FirstOrDefault(u => u.Login == login && u.Password == password);
+            string hashedPassword = User.HashPassword(password);
+            var user = _dbContext.Users.FirstOrDefault(u => u.Login == login && u.Pass == hashedPassword);
+
+            if (user == null)
+            {
+                return false;
+            }
+
             ActiveUser = user;
-            return user != null;
+            return true;
         }
     }
 }

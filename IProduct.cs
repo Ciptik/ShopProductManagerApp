@@ -8,7 +8,9 @@ namespace ShopProductManagerApp
 {
     public interface IProduct
     {
-        string Name { get; set; }
+        int ProductID { get; set; }
+        string ProductName { get; set; }
         decimal Price { get; set; }
+        string Description { get; set; }
     }
 }

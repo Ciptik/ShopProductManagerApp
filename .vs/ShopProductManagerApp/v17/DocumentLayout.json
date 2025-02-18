@@ -1,26 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\",
+  "WorkspaceRootPath": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|c:\\users\\winuser\\desktop\\gfhgff\\shopproductmanagerapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|c:\\users\\winuser\\desktop\\gfhgff\\shopproductmanagerapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|c:\\users\\winuser\\desktop\\gfhgff\\shopproductmanagerapp\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\winuser\\AppData\\Local\\Temp\\.vsdbgsrc\\3f3f4930c2507762b6f07a7191ebfd44e623aa776e49360b6e37ccc7637189f4\\Dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,66 +53,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\RegisterWindow.xaml.cs",
-              "RelativeDocumentMoniker": "RegisterWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\RegisterWindow.xaml.cs",
-              "RelativeToolTip": "RegisterWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-18T16:55:23.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\IProduct.cs",
+              "RelativeDocumentMoniker": "IProduct.cs",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\IProduct.cs",
+              "RelativeToolTip": "IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:52:11.098Z",
+              "WhenOpened": "2025-02-18T16:50:30.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\winuser\\AppData\\Local\\Temp\\.vsdbgsrc\\3f3f4930c2507762b6f07a7191ebfd44e623aa776e49360b6e37ccc7637189f4\\Dispatcher.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3f3f4930c2507762b6f07a7191ebfd44e623aa776e49360b6e37ccc7637189f4\\Dispatcher.cs",
+              "ToolTip": "C:\\Users\\winuser\\AppData\\Local\\Temp\\.vsdbgsrc\\3f3f4930c2507762b6f07a7191ebfd44e623aa776e49360b6e37ccc7637189f4\\Dispatcher.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3f3f4930c2507762b6f07a7191ebfd44e623aa776e49360b6e37ccc7637189f4\\Dispatcher.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAJsGAAAAAAAAAAAhwLIGAAAFAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:37:11.719Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:25:38.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\AuthService.cs",
-              "RelativeDocumentMoniker": "AuthService.cs",
-              "ToolTip": "C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\AuthService.cs",
-              "RelativeToolTip": "AuthService.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwAoAAAAcAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:47:48.473Z"
+              "WhenOpened": "2025-02-18T14:29:33.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:44:20.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-18T15:29:48.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthService.cs",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\AuthService.cs",
+              "RelativeToolTip": "AuthService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:25:39.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "RegisterWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:52:11.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LoginWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:25:05.267Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\gfhgff\\ShopProductManagerApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwEsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:47:18.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-28T15:37:23.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "LoginWindow.xaml",
-              "ToolTip": "C:\\Users\\winuser\\Desktop\\Git\\ShopProductManagerApp\\LoginWindow.xaml",
-              "RelativeToolTip": "LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-28T14:43:41.51Z"
+              "WhenOpened": "2025-01-28T15:47:18.738Z",
+              "EditorCaption": ""
             }
           ]
         }
