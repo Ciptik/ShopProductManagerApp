@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\winuser\\Desktop\\temp\\ShopProductManagerApp-new-version\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|c:\\users\\winuser\\desktop\\temp\\shopproductmanagerapp-new-version\\editproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:editproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|c:\\users\\winuser\\desktop\\temp\\shopproductmanagerapp-new-version\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|c:\\users\\winuser\\desktop\\temp\\shopproductmanagerapp-new-version\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|c:\\users\\winuser\\desktop\\temp\\shopproductmanagerapp-new-version\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{218F6F72-70C8-4A93-BAAE-C61FCAEC8B9D}|ShopProductManagerApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\temp\\ShopProductManagerApp-new-version\\AddProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AddProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\temp\\ShopProductManagerApp-new-version\\AddProductWindow.xaml.cs",
+              "RelativeToolTip": "AddProductWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:04:18.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\temp\\ShopProductManagerApp-new-version\\EditProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EditProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\temp\\ShopProductManagerApp-new-version\\EditProductWindow.xaml.cs*",
+              "RelativeToolTip": "EditProductWindow.xaml.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:03:20.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\temp\\ShopProductManagerApp-new-version\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\temp\\ShopProductManagerApp-new-version\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:59:43.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\winuser\\Desktop\\temp\\ShopProductManagerApp-new-version\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\winuser\\Desktop\\temp\\ShopProductManagerApp-new-version\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T18:50:05.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
